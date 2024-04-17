@@ -1,0 +1,14 @@
+#backg{
+    background-image: url("th.jpeg");
+    text-align: center;
+}
+#tit {
+    color: red;
+   
+}
+a{
+    color: red;
+    font-size: medium;
+    background-color: green;
+    border-radius: 25px;
+}
